@@ -1,0 +1,7 @@
+name : Taj Mahal
+
+country : India
+
+name : great wall of china
+
+country : china

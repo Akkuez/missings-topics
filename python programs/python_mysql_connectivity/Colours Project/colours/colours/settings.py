@@ -1,0 +1,3 @@
+INSATLLED_APPS = [
+    'app'
+]

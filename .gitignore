@@ -1,0 +1,16 @@
+# Ignore root items by default
+/*
+!.gitignore
+!/django rest project/
+!/git works/
+!/virtual envs/
+!/python programs/
+
+# Inside python programs, only track python_mysql_connectivity
+/python programs/*
+!/python programs/python_mysql_connectivity/
+
+# Ignore temporary and system files
+**/.tmp.driveupload/
+**/desktop.ini
+**/__pycache__/

@@ -1,0 +1,16 @@
+1 
+
+name : jailer 2
+
+director :Nelson
+
+releasing : 2026
+
+2 
+
+name :Leo
+
+director : Lokesh
+
+releasing : 2023
+

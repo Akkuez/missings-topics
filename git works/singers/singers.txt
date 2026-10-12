@@ -1,0 +1,13 @@
+name : yesudas
+
+no : song 190
+
+name : sid sreeram
+
+git commit -m 'a malayalam movie added'    
+
+git remote add origin https://github.com/Akkuez/Movies.git
+
+git branch -m main
+
+git push origin main

@@ -1,0 +1,15 @@
+-common folder
+|
+|--- project folder (main)
+    |
+    |--- pfolder 1
+    |   |
+    |   |--- settings.py            #to register the folder
+
+    |--- app folder 2
+        |
+        |--- view.py                #MySQLdb
+
+        
+
+        

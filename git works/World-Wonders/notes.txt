@@ -1,0 +1,138 @@
+
+        request
+
+         ---->       
+[client]        [server]
+         <----   
+        response
+
+
+        http protocol
+
+--------------------------------------------------------------
+        http request----------
+        
+        
+
+        url: -- (uniform resourse location)
+
+        http method
+
+        get -- get server side data / display data
+
+        post -- insert / create a content in server side
+
+        put/patch -- full update(put) / parsal updation(patch)
+
+        delete  -- server side content delete
+
+        body -- data passing for posting/updating (post/put/patch)
+
+        headers -- auth passing through headers
+        ---------------------
+---------------------------------------------------------------
+
+        http response--------
+
+
+
+
+
+
+
+        danjgo
+
+        template rendering ---- login.html
+
+        status code --------------------
+        
+        1xx series -- informational codes (generates before passing data)
+
+        2xx series -- 200(sucess code) , 201(added)
+
+        3xx series  -- redirectional codes  (generates before passing data)
+
+        4xx series -- client side -errors 404(not found)
+
+        5xx series -- server side-errors    501()
+        --------------------------------
+
+        api development? 
+
+
+        
+        product.html --- (frontend)-----------
+
+            name 
+            price
+            name
+
+        server --- (backend)   --------------
+
+        database  
+
+            name    price   colours 
+            
+        ---------------------------------------
+
+
+       [ web browser ]         instagram(backend)
+        
+       [ andriod ]             backend
+
+       [ ios app ]
+
+        ---------------------------------------
+
+
+
+
+
+    api development?  backend development will be api
+    --------(application programming interface) bridge between server and application
+
+    data 
+
+    status code 
+
+
+    danjgorestframework
+    ---------------------------
+
+    SOAP
+
+    xml
+
+    REST
+
+    json format java script object notation
+
+    -----------------------------------------------------------------
+
+
+
+    virtual environments (spearate environment for projects)----
+
+    general global python
+
+    global pip
+    
+    to create virtual environment
+
+        python -m venv 'name'    (eg, venv or env)
+
+        python -m venv env
+
+            python
+            pip
+
+    to activate virtual environment
+
+        - env/scripts/activate
+
+
+
+
+
+
+    

@@ -1,0 +1,20 @@
+1. create project folder
+
+2. virtual env setup
+
+3. install necessary packages
+
+4. project folder(django-admin startproject project_name)
+
+
+
+colours project ------colours----colours----views.py
+                        |
+                        ---------app--------settings.py
+
+5. cd folder
+
+6. app folder (django-admin startapp app name)
+
+7. register your app in settings.py
+

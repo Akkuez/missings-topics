@@ -1,0 +1,23 @@
+when activating env if error occurs then
+
+Set-ExecutionPolicy RemoteSigned
+
+then "Y"
+
+reopen the vscode
+
+pip list
+
+pip install pillow
+
+
+multiple packages install at a time
+------------------------------------
+pip install pillow request   #(for multiple pip installation at a time)
+
+
+--------To deactivate env ----------
+
+- deactivate
+
+pip install beautifulsoup4 requests django
